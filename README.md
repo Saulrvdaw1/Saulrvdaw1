@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Saulrvdaw1/Saulrvdaw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Saúl
 
-Here are some ideas to get you started:
+Soy estudiante de 2º de DAW en el IES Alixar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- Estoy aprendiendo desarrollo web.
+- Estoy estudiando Java y PHP.
+
+## Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+
+## Mi web
+
+[Mi portfolio](https://saulrvdaw1.github.io)
+
+## Contacto
+
+[Mi perfil de GitHub](https://github.com/Saulrvdaw1)
